@@ -12,10 +12,10 @@ The deck AToure received is Rolling Stone Africa's own budget projection for the
 
 ## AToure fee structure
 
-Confirmed on a call today, structured in two parts, similar in shape to the Ashton Hall engagement.
+Two separate revenue streams, both still to be finalized with Rolling Stone Africa.
 
-1. Base organization fee. Covers activating AToure on the ground in Côte d'Ivoire: sourcing and coordinating the experience, logistics, and the local contacts needed to deliver the trip.
-2. Sponsorship commission. A percentage of any sponsorship revenue AToure brings into the project.
+1. Base organization fee. Preferred structure is a percentage of the finalized total tour budget, targeted around twenty five percent, covering activation on the ground in Côte d'Ivoire: sourcing and coordinating the experience, logistics, and the local contacts needed to deliver the trip. If the finalized tour budget turns out too low for a percentage to make sense, this falls back to a flat fee instead. The actual number depends entirely on the tour budget Rolling Stone Africa confirms.
+2. Sponsorship commission. A percentage of any sponsorship revenue AToure brings into the project, separate from the base fee above. Percentage still to be set.
 
 ## Key parties
 
@@ -39,6 +39,10 @@ Confirmed on a call today, structured in two parts, similar in shape to the Asht
 1. Target window for the trip and the shoot.
 2. What is driving that timeline.
 
+### Budget and fee
+1. What the finalized total tour budget actually is, since AToure's base fee structure depends on it.
+2. Whether Rolling Stone Africa is open to a percentage of budget structure, or expects a flat fee from the outset.
+
 ### Sponsorship
 1. Whether sponsorship tiers and pricing already exist or still need to be built.
 2. Whether AToure sources sponsors independently or works from a shared prospect list, and how the commission is calculated and paid.
@@ -46,5 +50,6 @@ Confirmed on a call today, structured in two parts, similar in shape to the Asht
 ## Next steps
 
 1. Schedule the call with the Rolling Stone Africa representative.
-2. Get the two part fee structure confirmed in writing once terms are agreed.
-3. Keep AToure's scope and Rolling Stone Africa's own tour budget clearly separated in every future document, so the two are never confused again.
+2. Send a formal letter accepting the engagement ahead of that call.
+3. Get the fee structure confirmed in writing once the tour budget is finalized.
+4. Keep AToure's scope and Rolling Stone Africa's own tour budget clearly separated in every future document, so the two are never confused again.
