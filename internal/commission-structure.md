@@ -1,7 +1,7 @@
 # Commission structure, internal
 
-Confidential. Internal use only. Source of truth for the figures in
-`AToure-Commission-Structure-Janet-Jackson.pdf`.
+Confidential. Internal use only. Source of truth for the four generated PDFs:
+commission structure and sponsorship team briefing, each in English and French.
 
 Project: Janet Jackson in Côte d'Ivoire, Culture on Culture, Rolling Stone Africa.
 
@@ -9,23 +9,18 @@ Project: Janet Jackson in Côte d'Ivoire, Culture on Culture, Rolling Stone Afri
 
 ## Two revenue streams
 
-The project pays AToure through two separate and independent streams, calculated
-on different bases and divided between different parties.
-
 | Stream | Rate | Calculated on | Divides between |
 |---|---|---|---|
 | One. Agency fee | 35% | The total tour budget, charged on top | AToure and KalyEvents |
-| Two. Sponsorship | 30% | Each sponsor AToure brings to the table | AToure, KalyEvents and the sponsorship body |
+| Two. Sponsorship | 30% | Each sponsor brought to the project | Depends on who brings the sponsor |
 
 ---
 
 ## Stream one: agency fee
 
-35% of the total tour budget for the organisational and logistical delivery of
-the project. Charged **on top of the budget**, not carved out of it, so the full
-envelope is still spent on the ground and the fee is additional revenue.
-
-Division, expressed in points of the tour budget:
+35% of the total tour budget for organisational and logistical delivery.
+Charged **on top of the budget**, not carved out of it, so the full envelope is
+still spent on the ground and the fee is additional revenue.
 
 1. KalyEvents: 5 points, as the party who brought the project to AToure
 2. AToure: 30 points
@@ -38,72 +33,98 @@ As a share of the fee itself, AToure takes 85.7% and KalyEvents takes 14.3%.
 | 65,000,000 working envelope low | 22,750,000 | 3,250,000 | 19,500,000 |
 | 70,000,000 working envelope high | 24,500,000 | 3,500,000 | 21,000,000 |
 
-All figures FCFA. AToure's own delivery costs come out of its thirty points. The
-KalyEvents share is paid off the top of the fee and is not reduced by those costs.
+All figures FCFA. AToure's delivery costs come out of its thirty points. The
+KalyEvents share is paid off the top of the fee.
 
 ---
 
 ## Stream two: sponsorship
 
-30% commission on every sponsor AToure brings to the table. This is the position
-AToure pushes for, not an agreed rate. It applies only to sponsors AToure
-introduces.
+30% commission on every sponsor brought to the project. How the 30% divides
+depends entirely on who brings the sponsor.
 
-Division, expressed in points of the sponsor value:
+**Case one. AToure brings the sponsor.** Divided between AToure and KalyEvents
+only, at 20 and 10 points. The sponsorship team receives nothing.
 
-1. AToure: 15 points
-2. KalyEvents: 10 points
-3. Sponsorship body: 5 points, meaning the person who brings the sponsor
+**Case two. The sponsorship team brings the sponsor.** AToure 15 points,
+KalyEvents 10 points, sponsorship team 5 points.
 
-As a share of the commission itself, AToure takes 50%, KalyEvents takes 33.3%
-and the sponsorship body takes 16.7%.
+The five points for the sponsorship team come out of AToure's share.
+KalyEvents receives ten points in both cases.
 
-| Sponsor value | Commission 30% | AToure 15% | KalyEvents 10% | Body 5% |
-|---|---|---|---|---|
-| 10,000,000 | 3,000,000 | 1,500,000 | 1,000,000 | 500,000 |
-| 25,000,000 | 7,500,000 | 3,750,000 | 2,500,000 | 1,250,000 |
-| 50,000,000 | 15,000,000 | 7,500,000 | 5,000,000 | 2,500,000 |
-| 100,000,000 | 30,000,000 | 15,000,000 | 10,000,000 | 5,000,000 |
+| Sponsor value | Commission 30% | AToure case 1, 20% | AToure case 2, 15% | KalyEvents 10% | Team case 2, 5% |
+|---|---|---|---|---|---|
+| 10,000,000 | 3,000,000 | 2,000,000 | 1,500,000 | 1,000,000 | 500,000 |
+| 25,000,000 | 7,500,000 | 5,000,000 | 3,750,000 | 2,500,000 | 1,250,000 |
+| 50,000,000 | 15,000,000 | 10,000,000 | 7,500,000 | 5,000,000 | 2,500,000 |
+| 100,000,000 | 30,000,000 | 20,000,000 | 15,000,000 | 10,000,000 | 5,000,000 |
+
+The 30% rate is the position AToure pushes for. Not yet agreed with Rolling
+Stone Africa or with any sponsor.
+
+---
+
+## Every approach is made in the name of AToure
+
+Not negotiable, and stated in both documents.
+
+1. Every approach to a company is made on AToure letterhead.
+2. Anyone contacting a company does so as a representative of AToure, or on
+   behalf of AToure, never in their own name.
+3. AToure takes part at every stage: decision making, pitching and final sign off.
+4. No proposal is sent, no terms are discussed and nothing is signed without AToure.
+5. It is the name, the reputation and the relationships of AToure that are on the line.
+
+---
+
+## Registering a sponsor
+
+The five points follow whoever brings the sponsor, so the claim has to be
+established before contact rather than after the money lands.
+
+1. The prospect name goes to AToure before any contact.
+2. AToure confirms in writing that the prospect is registered to that person.
+3. That written confirmation is what secures the five points.
+4. The approach happens only after confirmation, on AToure letterhead.
+5. AToure joins the pitch and the sign off.
+
+First written registration wins. Verbal claims after a signature are not accepted.
 
 ---
 
 ## Worked example
 
-Illustration on a 70,000,000 FCFA tour budget with 50,000,000 FCFA of
-sponsorship sourced by AToure.
+70,000,000 FCFA tour budget, 30,000,000 FCFA of sponsorship brought by AToure
+and 20,000,000 FCFA brought by the sponsorship team.
 
 | Party | From agency fee | From sponsorship | Total FCFA |
 |---|---|---|---|
-| AToure | 21,000,000 | 7,500,000 | 28,500,000 |
+| AToure | 21,000,000 | 9,000,000 | 30,000,000 |
 | KalyEvents | 3,500,000 | 5,000,000 | 8,500,000 |
-| Sponsorship body | 0 | 2,500,000 | 2,500,000 |
+| Sponsorship team | 0 | 1,000,000 | 1,000,000 |
 
 ---
 
-## Open items before any money moves
+## Open items
 
-1. **Agree the sponsorship body before the introduction.** The five points go to
-   whoever brings the sponsor. Name that person in writing for each sponsor
-   before the introduction is made, otherwise the claim is arguable after the
-   money lands.
+1. **Register the source of every sponsor in writing before first contact.**
 2. **Decide whether sponsorship inflates the tour budget.** If sponsor money
-   increases the budget AToure charges 35% against, the same money would earn
-   both the agency fee and the sponsorship commission. Confirm with Rolling
-   Stone Africa whether that is intended, or whether the fee is charged on the
-   budget before sponsorship.
-3. **Define gross or net on sponsorship.** State whether the 30% is calculated
-   on the gross value a sponsor commits or on the amount net of any costs of
-   servicing that sponsor.
-4. **Get the 35% in writing.** Discussed but not yet documented with Rolling
-   Stone Africa.
+   increases the budget AToure charges 35% against, the same money earns both
+   the agency fee and the sponsorship commission. Confirm the intent with
+   Rolling Stone Africa.
+3. **Define gross or net on sponsorship.**
+4. **Get the 35% in writing.**
+5. Confirm whether KalyEvents' 5 points on the agency fee also apply to any
+   budget increase driven by sponsorship.
 
 ---
 
 ## Notes
 
-1. Currency conversions in the PDF use 567 FCFA to the US dollar, the indicative
-   rate implied by the Rolling Stone Africa budget document. Indicative only.
+1. Currency conversions use 567 FCFA to the US dollar, indicative only.
 2. This supersedes the 25% base fee recorded earlier in the project README.
-3. Nothing here is binding until it is in a signed agreement.
-4. The PDF is generated by `internal/build_commission_pdf.py` using the fonts,
-   lockup and colour specification in the website repository brand kit.
+3. The sponsorship team briefing deliberately omits the agency fee. That stream
+   is between AToure and KalyEvents and is not the sponsorship team's business.
+4. All four PDFs are generated by `internal/build_commission_docs.py` using the
+   fonts, lockup and colour specification in the website repository brand kit.
+5. Nothing here is binding until it is in a signed agreement.
