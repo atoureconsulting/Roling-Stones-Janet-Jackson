@@ -19,10 +19,9 @@ Project: Janet Jackson in Côte d'Ivoire, Culture on Culture, Rolling Stone Afri
 ## Stream one: agency fee
 
 35% of the total tour budget for organisational and logistical delivery.
-Charged **on top of the budget**, not carved out of it, so the full envelope is
-still spent on the ground and the fee is additional revenue.
+Charged **on top of the budget**, not carved out of it.
 
-1. KalyEvents: 5 points, as the party who brought the project to AToure
+1. KalyEvents: 5 points
 2. AToure: 30 points
 
 As a share of the fee itself, AToure takes 85.7% and KalyEvents takes 14.3%.
@@ -33,34 +32,33 @@ As a share of the fee itself, AToure takes 85.7% and KalyEvents takes 14.3%.
 | 65,000,000 working envelope low | 22,750,000 | 3,250,000 | 19,500,000 |
 | 70,000,000 working envelope high | 24,500,000 | 3,500,000 | 21,000,000 |
 
-All figures FCFA. AToure's delivery costs come out of its thirty points. The
-KalyEvents share is paid off the top of the fee.
+All figures FCFA.
 
 ---
 
 ## Stream two: sponsorship
 
-30% commission on every sponsor brought to the project. How the 30% divides
-depends entirely on who brings the sponsor.
+30% commission on every sponsor brought to the project. The division depends on
+who brings the sponsor.
 
-**Case one. AToure brings the sponsor.** Divided between AToure and KalyEvents
-only, at 20 and 10 points. The sponsorship team receives nothing.
+**Case one. AToure brings the sponsor.** AToure 20, KalyEvents 10, sponsorship
+team nothing.
 
-**Case two. The sponsorship team brings the sponsor.** AToure 15 points,
-KalyEvents 10 points, sponsorship team 5 points.
+**Case two. The sponsorship team brings the sponsor.** AToure 18, KalyEvents 7,
+sponsorship team 5.
 
-The five points for the sponsorship team come out of AToure's share.
-KalyEvents receives ten points in both cases.
+Both AToure and KalyEvents give up points so that the sponsorship team is paid
+on what it brings. AToure gives up two points and KalyEvents gives up three.
 
-| Sponsor value | Commission 30% | AToure case 1, 20% | AToure case 2, 15% | KalyEvents 10% | Team case 2, 5% |
-|---|---|---|---|---|---|
-| 10,000,000 | 3,000,000 | 2,000,000 | 1,500,000 | 1,000,000 | 500,000 |
-| 25,000,000 | 7,500,000 | 5,000,000 | 3,750,000 | 2,500,000 | 1,250,000 |
-| 50,000,000 | 15,000,000 | 10,000,000 | 7,500,000 | 5,000,000 | 2,500,000 |
-| 100,000,000 | 30,000,000 | 20,000,000 | 15,000,000 | 10,000,000 | 5,000,000 |
+| Sponsor value | Commission 30% | AToure 20 or 18 | KalyEvents 10 or 7 | Team 0 or 5 |
+|---|---|---|---|---|
+| 10,000,000 | 3,000,000 | 2,000,000 or 1,800,000 | 1,000,000 or 700,000 | 0 or 500,000 |
+| 25,000,000 | 7,500,000 | 5,000,000 or 4,500,000 | 2,500,000 or 1,750,000 | 0 or 1,250,000 |
+| 50,000,000 | 15,000,000 | 10,000,000 or 9,000,000 | 5,000,000 or 3,500,000 | 0 or 2,500,000 |
+| 100,000,000 | 30,000,000 | 20,000,000 or 18,000,000 | 10,000,000 or 7,000,000 | 0 or 5,000,000 |
 
-The 30% rate is the position AToure pushes for. Not yet agreed with Rolling
-Stone Africa or with any sponsor.
+First figure is case one, second is case two. The 30% rate is still to be agreed
+with Rolling Stone Africa and with sponsors.
 
 ---
 
@@ -79,9 +77,6 @@ Not negotiable, and stated in both documents.
 
 ## Registering a sponsor
 
-The five points follow whoever brings the sponsor, so the claim has to be
-established before contact rather than after the money lands.
-
 1. The prospect name goes to AToure before any contact.
 2. AToure confirms in writing that the prospect is registered to that person.
 3. That written confirmation is what secures the five points.
@@ -99,8 +94,8 @@ and 20,000,000 FCFA brought by the sponsorship team.
 
 | Party | From agency fee | From sponsorship | Total FCFA |
 |---|---|---|---|
-| AToure | 21,000,000 | 9,000,000 | 30,000,000 |
-| KalyEvents | 3,500,000 | 5,000,000 | 8,500,000 |
+| AToure | 21,000,000 | 9,600,000 | 30,600,000 |
+| KalyEvents | 3,500,000 | 4,400,000 | 7,900,000 |
 | Sponsorship team | 0 | 1,000,000 | 1,000,000 |
 
 ---
@@ -110,8 +105,7 @@ and 20,000,000 FCFA brought by the sponsorship team.
 1. **Register the source of every sponsor in writing before first contact.**
 2. **Decide whether sponsorship inflates the tour budget.** If sponsor money
    increases the budget AToure charges 35% against, the same money earns both
-   the agency fee and the sponsorship commission. Confirm the intent with
-   Rolling Stone Africa.
+   the agency fee and the sponsorship commission.
 3. **Define gross or net on sponsorship.**
 4. **Get the 35% in writing.**
 5. Confirm whether KalyEvents' 5 points on the agency fee also apply to any
@@ -122,9 +116,11 @@ and 20,000,000 FCFA brought by the sponsorship team.
 ## Notes
 
 1. Currency conversions use 567 FCFA to the US dollar, indicative only.
-2. This supersedes the 25% base fee recorded earlier in the project README.
+2. This supersedes the 25% base fee recorded earlier in the project README, and
+   the earlier 15 / 10 / 5 sponsorship split.
 3. The sponsorship team briefing deliberately omits the agency fee. That stream
-   is between AToure and KalyEvents and is not the sponsorship team's business.
-4. All four PDFs are generated by `internal/build_commission_docs.py` using the
-   fonts, lockup and colour specification in the website repository brand kit.
+   is between AToure and KalyEvents.
+4. Generated by two scripts, kept separate so neither overwrites the other:
+   `internal/build_commission_docs.py` builds the commission structure, and
+   `internal/build_sponsorship_onepager.py` builds the one page briefing.
 5. Nothing here is binding until it is in a signed agreement.
